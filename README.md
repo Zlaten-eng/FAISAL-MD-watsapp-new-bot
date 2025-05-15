@@ -50,7 +50,61 @@
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
-  
+
+  ### <br>   ❖ DEPLOY_WORKFLOWS ❖
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-----------
+### 🧑‍💻 Connect with the Developer
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/GitHub-Tohidkhan6332-blue?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/Tohid_mewati">
+    <img src="https://img.shields.io/badge/Telegram-@Tohid_mewati-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://wa.me/message/917849917350">
+    <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@Tohidkhan_6332">
+    <img src="https://img.shields.io/badge/YouTube-@Tohidkhan_6332-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
 --- 
 > **PAIRING LINK (01)**
   <a href='https://khanxmd.onrender.com/' target="_blank">
