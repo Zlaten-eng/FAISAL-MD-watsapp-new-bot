@@ -24,6 +24,17 @@
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  ## Main Developer
+<a href="https://github.com/Queen-anita"><img src="https://files.catbox.moe/wtqlhp.jpg" width="300" height="300" alt="𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃"/></a>
+  
+`𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃 - By SHAH FAISAL`
+
+
+  ## Core Developer
+<a href="https://github.com/CyberSamuZaX/"><img src="https://avatars.githubusercontent.com/u/140577992?v=4" width="300" height="300" alt="DARK-SAMUZA"/></a>
+  
+`DARK-SAMUZA - By Samuza`</br>
+`SamuZa Is My Boy Friend`
 
   ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
@@ -75,7 +86,7 @@ jobs:
   ## Main Developer
 <a href="https://github.com/Queen-anita"><img src="https://files.catbox.moe/wtqlhp.jpg" width="250" height="250" alt="𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃"/></a>
   
-`𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃 - By Ayesha`
+`𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃 - By SHAH FAISAL`
 
 
   ## Core Developer
