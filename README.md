@@ -25,7 +25,12 @@
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
 
-
+> **PAIRING LINK (01)**
+  <a href='https://chekingpair-9f9006229334.herokuapp.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
   ## Main Developer
 <a href="https://github.com/Queen-anita/"><img src="https://files.catbox.moe/wtqlhp.jpg" width="300" height="300" alt="𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃"/></a>
   
@@ -39,12 +44,7 @@
 `SamuZa Is My Boy Friend`
 
 
-> **PAIRING LINK (01)**
-  <a href='https://chekingpair-9f9006229334.herokuapp.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
+
 
 
 ## 🌟 BOT FEATURES
