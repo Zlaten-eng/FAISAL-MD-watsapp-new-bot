@@ -38,6 +38,38 @@
 `DARK-SAMUZA - By Samuza`</br>
 `SamuZa Is My Boy Friend`
 
+
+> **PAIRING LINK (01)**
+  <a href='https://chekingpair-9f9006229334.herokuapp.com/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
+
+
+  ## Main Developer
+<a href="https://github.com/Queen-anita"><img src="https://files.catbox.moe/wtqlhp.jpg" width="250" height="250" alt="𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃"/></a>
+  
+`𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃 - By SHAH FAISAL`
+
+
+  ## Core Developer
+<a href="https://github.com/CyberSamuZaX/"><img src="https://avatars.githubusercontent.com/u/140577992?v=4" width="250" height="250" alt="DARK-SAMUZA"/></a>
+  
+`DARK-SAMUZA - By Samuza`</br>
+`SamuZa Is My Boy Friend`
+
+
+## 🌟 BOT FEATURES
+
+```bash
+✦ Antidelete, Antiviewonce, Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
+```
+
   ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
@@ -77,35 +109,3 @@ jobs:
 
 -----------
 --- 
-> **PAIRING LINK (01)**
-  <a href='https://chekingpair-9f9006229334.herokuapp.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-
-
-  ## Main Developer
-<a href="https://github.com/Queen-anita"><img src="https://files.catbox.moe/wtqlhp.jpg" width="250" height="250" alt="𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃"/></a>
-  
-`𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃 - By SHAH FAISAL`
-
-
-  ## Core Developer
-<a href="https://github.com/CyberSamuZaX/"><img src="https://avatars.githubusercontent.com/u/140577992?v=4" width="250" height="250" alt="DARK-SAMUZA"/></a>
-  
-`DARK-SAMUZA - By Samuza`</br>
-`SamuZa Is My Boy Friend`
-
-
-## 🌟 BOT FEATURES
-
-```bash
-✦ Antidelete, Antiviewonce, Antilink
-✦ High speed YT, Tiktok, FB, IG Downloaders
-✦ 10+ AI models + Image anlysis AI
-✦ Fast low latensie, Powerful
-✦ Futuristic Cool ICY UI
-```
-
-
