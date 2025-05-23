@@ -36,7 +36,7 @@
   </a></br>
 
 > **HEROKU (03)**
-  <a href='https://dashboard.heroku.com/' target="_blank">
+  <a href='https://heroku.com/deploy?template=https://github.com/Queen-anita/FAISAL-MD-watsapp-new-bot/Bypass' target="_blank">
     <img src='https://img.shields.io/badge/HEROKU_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
