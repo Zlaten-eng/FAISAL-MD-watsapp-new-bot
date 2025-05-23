@@ -39,7 +39,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923439081536",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "THE PROTECTOER",
+OWNER_NAME: process.env.OWNER_NAME || "SHAH FAISAL",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "> © 𝚸𝚯𝐖𝚵𝚪𝐃 𝚩𝐘 𝐅𝚫𝚰𝐒𝚫𝐋-𝚳𝐃",
 // add bot owner name    
