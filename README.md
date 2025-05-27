@@ -26,12 +26,12 @@
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
 
 > **PAIRING LINK (01)**
-  <a href='https://chekingpair-9f9006229334.herokuapp.com/pair' target="_blank">
+  <a href='https://mrzainu-6dce47fc0d21.herokuapp.com/pair' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
   > **PAIRING QR (02)**
-  <a href='https://chekingpair-9f9006229334.herokuapp.com/qr' target="_blank">
+  <a href='https://mrzainu-6dce47fc0d21.herokuapp.com/qr' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
