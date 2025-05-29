@@ -33,8 +33,8 @@ async (conn, mek, m, { from }) => {
             caption: `╭━━〔 *FAISAL-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
-┃◈┃• *Name* - ${ownerName}
-┃◈┃• *Number* ${ownerNumber}
+┃◈┃• *Name* - ${SHAH FAISAL}
+┃◈┃• *Number* ${923008340829}
 ┃◈┃• *Version*: 2.0.0 Beta
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
