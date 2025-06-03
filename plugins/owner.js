@@ -15,8 +15,8 @@ async (conn, mek, m, { from }) => {
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
-                      `FN:94752677804\n` +  
-                      `TEL;type=CELL;type=VOICE;waid=923439081536:923439081536\n` + 
+                      `FN:${ownerName}\n` +  
+                      `TEL;type=CELL;type=VOICE;waid=${ownerNumber.replace('+', '')}:${ownerNumber}\n` + 
                       'END:VCARD';
 
         // Send the vCard
@@ -29,7 +29,7 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/wtqlhp.jpg' }, // Image URL from your request
+            image: { url: 'https://qu.ax/bfZVV.jpg' }, // Image URL from your request
             caption: `╭━━〔 *FAISAL-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
@@ -44,8 +44,8 @@ async (conn, mek, m, { from }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                newsletterJid: '123456789123456789@newsletter',
-                ewsletterName: 'FAISAL-MD',
+                    newsletterJid: '120363207624903731@newsletter',
+                    newsletterName: 'FAISAL-MD',
                     serverMessageId: 143
                 }            
             }
@@ -53,7 +53,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/CyberSamuZaX/FAISAL-MD-DATA/raw/refs/heads/main/outoalive.mpeg' },
+            audio: { url: 'https://github.com/JawadYT36/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
