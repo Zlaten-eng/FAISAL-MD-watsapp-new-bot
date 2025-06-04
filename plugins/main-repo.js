@@ -179,7 +179,7 @@ ${repoData.description || 'No description provided'}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '123456789123456789@newsletter',
+                    newsletterJid: '120363207624903731@newsletter',
                     newsletterName: config.OWNER_NAME || 'FAISAL-MD',
                     serverMessageId: 143
                 }
