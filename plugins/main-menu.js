@@ -344,14 +344,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/wtqlhp.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://qu.ax/bfZVV.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '123456789123456789@newsletter',
+                        newsletterJid: '120363207624903731@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
